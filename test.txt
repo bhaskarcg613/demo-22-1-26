@@ -1,1 +1,3 @@
 editing test file
+Hello world!
+Hello everyone
