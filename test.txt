@@ -1,3 +1,4 @@
 editing test file
 Hello world!
+line 3 has been revoked from commit and updated again
 Hello everyone
