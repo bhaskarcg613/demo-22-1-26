@@ -1,4 +1,3 @@
 editing test file
 Hello world!
-added line 3
-Hello everyone
+checking whether merge request pops up in github
