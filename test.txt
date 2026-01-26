@@ -1,3 +1,2 @@
 editing test file
-Hello world!
-checking whether merge request pops up in github
+checking how cherry-pick in git works
