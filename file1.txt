@@ -1,2 +1,0 @@
-"we are practicing git commands"
-let's check how merge request works in git
