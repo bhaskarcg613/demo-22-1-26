@@ -1,1 +1,2 @@
 practice file
+how merge command in git works
