@@ -1,2 +1,2 @@
-created new file demo.txt in prod
-checking if merge will transfer this file to master from prod
+this is a demo file and we are trying to push updates to our repo
+before performing pull request
