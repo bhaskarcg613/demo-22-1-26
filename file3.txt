@@ -1,2 +1,3 @@
 practice file
 how merge command in git works
+let's check how poll SCM works
